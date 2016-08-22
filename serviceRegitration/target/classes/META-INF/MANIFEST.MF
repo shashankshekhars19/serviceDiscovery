@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: serviceRegitration
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shekhar
+Implementation-Vendor-Id: com.serviceRegistration
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/serviceRegis
+ ter/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
